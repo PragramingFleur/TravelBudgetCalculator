@@ -27,7 +27,7 @@ public class Controller {
                 "Number of Days: %d\n"
                 + "Number of Meals per Day: %d\n"
                 + "Budget per Meal: %d\n"
-                + "Total Meal Budget for %d days: %d", num1, num2, num3, num3, ( (num1 * num2) * num3 )
+                + "Total Meal Budget for %d days: %d", num1, num2, num3, num1, ( (num1 * num2) * num3 )
         );
     }
     
